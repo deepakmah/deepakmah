@@ -6,25 +6,26 @@
 
 **Magento 2 Developer at Exinent LLC**
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=F26322&center=true&vCenter=true&width=720&lines=Checkout%2C+pricing%2C+and+shipping+modules;Java+and+Selenium+automation;Modules+for+live+ecommerce+stores" alt="What I work on"/>
-
-<br/>
-
 <a href="https://www.linkedin.com/in/deepak-maheshwari-651351188"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento 2"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Exinent_LLC-0F172A?style=for-the-badge&logoColor=white" alt="Exinent LLC"/>
-
-</div>
+<img src="https://img.shields.io/badge/Exinent_LLC-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Exinent LLC"/>
 
 <br/>
+
+<img src="https://img.shields.io/badge/Checkout_rules-0F172A?style=for-the-badge&labelColor=F26322" alt="Checkout rules"/>
+<img src="https://img.shields.io/badge/Catalog_pricing-0F172A?style=for-the-badge&labelColor=1D4ED8" alt="Catalog pricing"/>
+<img src="https://img.shields.io/badge/Shipping-0F172A?style=for-the-badge&labelColor=0F766E" alt="Shipping"/>
+<img src="https://img.shields.io/badge/Store_automation-0F172A?style=for-the-badge&labelColor=FBBF24" alt="Store automation"/>
+
+</div>
 
 I build Magento 2 modules for live stores: checkout rules, catalog pricing, shipping, and admin settings. I also write Java automation for storefront checks and site speed.
 
 <div align="center">
 
-<h3>Stack</h3>
+### Stack
 
 <img src="https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento 2"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -34,31 +35,22 @@ I build Magento 2 modules for live stores: checkout rules, catalog pricing, ship
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
-<h3>Selected work</h3>
+### Selected work
 
-<a href="https://github.com/deepakmah/ConfigurablePriceMarkup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmah&repo=ConfigurablePriceMarkup&hide_border=true&bg_color=0d1117&title_color=f26322&icon_color=2dd4bf&text_color=c9d1d9&border_radius=12&description_lines_count=2" alt="Configurable Price Markup" width="400"/></a>
-&nbsp;
-<a href="https://github.com/deepakmah/Exinent_DisableNewsletterSuccess"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmah&repo=Exinent_DisableNewsletterSuccess&hide_border=true&bg_color=0d1117&title_color=f26322&icon_color=2dd4bf&text_color=c9d1d9&border_radius=12&description_lines_count=2" alt="Disable Newsletter Success Email" width="400"/></a>
+[<img src="assets/card-price.png" width="420" alt="Configurable Price Markup">](https://github.com/deepakmah/ConfigurablePriceMarkup)
+[<img src="assets/card-newsletter.png" width="420" alt="Newsletter Success Email">](https://github.com/deepakmah/Exinent_DisableNewsletterSuccess)
+
+[<img src="assets/card-pobox.png" width="420" alt="PO Box Checkout">](https://github.com/deepakmah/Po_Box_checkout)
+[<img src="assets/card-shipping.png" width="420" alt="Customer Group Shipping">](https://github.com/deepakmah/Customer-group-free-shipping)
+
+[<img src="assets/card-youtube.png" width="420" alt="YouTube Shorts URLs">](https://github.com/deepakmah/Youtube-Shorts-url-support-)
+[<img src="assets/card-speed.png" width="420" alt="Site Speed Automation">](https://github.com/deepakmah/SiteSpeedAutomation)
+
+### Languages
+
+<img src="assets/languages.png" width="860" alt="PHP and Java on public repositories"/>
 
 <br/>
-
-<a href="https://github.com/deepakmah/Po_Box_checkout"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmah&repo=Po_Box_checkout&hide_border=true&bg_color=0d1117&title_color=f26322&icon_color=2dd4bf&text_color=c9d1d9&border_radius=12&description_lines_count=2" alt="PO Box Checkout" width="400"/></a>
-&nbsp;
-<a href="https://github.com/deepakmah/Customer-group-free-shipping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmah&repo=Customer-group-free-shipping&hide_border=true&bg_color=0d1117&title_color=f26322&icon_color=2dd4bf&text_color=c9d1d9&border_radius=12&description_lines_count=2" alt="Customer Group Free Shipping" width="400"/></a>
-
-<br/>
-
-<a href="https://github.com/deepakmah/Youtube-Shorts-url-support-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmah&repo=Youtube-Shorts-url-support-&hide_border=true&bg_color=0d1117&title_color=f26322&icon_color=2dd4bf&text_color=c9d1d9&border_radius=12&description_lines_count=2" alt="YouTube Shorts URLs" width="400"/></a>
-&nbsp;
-<a href="https://github.com/deepakmah/SiteSpeedAutomation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmah&repo=SiteSpeedAutomation&hide_border=true&bg_color=0d1117&title_color=f26322&icon_color=2dd4bf&text_color=c9d1d9&border_radius=12&description_lines_count=2" alt="Site Speed Automation" width="400"/></a>
-
-<h3>GitHub</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepakmah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f26322&icon_color=2dd4bf&text_color=c9d1d9&border_radius=12" alt="GitHub stats" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmah&layout=compact&hide_border=true&bg_color=0d1117&title_color=f26322&text_color=c9d1d9&border_radius=12&langs_count=6" alt="Top languages" height="165"/>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/deepak-maheshwari-651351188"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 
