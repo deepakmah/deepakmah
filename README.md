@@ -44,7 +44,7 @@ I build Magento 2 modules for live stores: checkout rules, catalog pricing, ship
 [<img src="assets/card-shipping.png" width="420" alt="Customer Group Shipping">](https://github.com/deepakmah/Customer-group-free-shipping)
 
 [<img src="assets/card-youtube.png" width="420" alt="YouTube Shorts URLs">](https://github.com/deepakmah/Youtube-Shorts-url-support-)
-[<img src="assets/card-speed.png" width="420" alt="Site Speed Automation">](https://github.com/deepakmah/SiteSpeedAutomation)
+[<img src="assets/card-speed.png" width="420" alt="Site Speed Automation">]([https://github.com/deepakmah/SiteSpeedAutomation](https://github.com/deepakmah/pod1_sitespeed))
 
 ### Languages
 
